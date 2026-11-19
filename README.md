@@ -1,4 +1,4 @@
-# nudgelink-co
+# NudgeLink
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,162 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nudgelink-co is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nudgelink.co/
+NudgeLink provides AI‑powered LinkedIn outreach, automatically identifying prospects that match your ideal customer profile, crafting personalized messages, and following up safely in your brand’s voice. The platform helps B2B teams generate conversations without hiring salespeople, offering starter plans from $55 and scaling options for larger enterprises.
+
+**Areas:** B2B · AI · LinkedIn · Outreach · SalesAutomation · Company
+
+## NudgeLink on APIs.io
+
+Everything profiled for NudgeLink is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nudgelink-co/](https://apis.io/providers/nudgelink-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (29)
+
+- [NudgeLink account erasure API](https://apis.io/apis/nudgelink-co/nudgelink-co-account-erasure-api/) — The account erasure API from NudgeLink — 6 operation(s) for account erasure.
+- [NudgeLink Accounts API](https://apis.io/apis/nudgelink-co/nudgelink-co-accounts-api/) — The accounts API from NudgeLink — 6 operation(s) for accounts.
+- [NudgeLink Activation API](https://apis.io/apis/nudgelink-co/nudgelink-co-activation-api/) — The activation API from NudgeLink — 2 operation(s) for activation.
+- [NudgeLink Admin API](https://apis.io/apis/nudgelink-co/nudgelink-co-admin-api/) — The admin API from NudgeLink — 65 operation(s) for admin.
+- [NudgeLink Admin Managed API](https://apis.io/apis/nudgelink-co/nudgelink-co-admin-managed-api/) — The admin-managed API from NudgeLink — 5 operation(s) for admin-managed.
+- [NudgeLink Admin Providers API](https://apis.io/apis/nudgelink-co/nudgelink-co-admin-providers-api/) — The admin-providers API from NudgeLink — 3 operation(s) for admin-providers.
+- [NudgeLink Affiliate API](https://apis.io/apis/nudgelink-co/nudgelink-co-affiliate-api/) — The affiliate API from NudgeLink — 1 operation(s) for affiliate.
+- [NudgeLink Auth API](https://apis.io/apis/nudgelink-co/nudgelink-co-auth-api/) — The auth API from NudgeLink — 15 operation(s) for auth.
+- [NudgeLink Billing API](https://apis.io/apis/nudgelink-co/nudgelink-co-billing-api/) — The billing API from NudgeLink — 8 operation(s) for billing.
+- [NudgeLink Campaigns API](https://apis.io/apis/nudgelink-co/nudgelink-co-campaigns-api/) — The campaigns API from NudgeLink — 9 operation(s) for campaigns.
+- [NudgeLink Dashboard API](https://apis.io/apis/nudgelink-co/nudgelink-co-dashboard-api/) — The dashboard API from NudgeLink — 3 operation(s) for dashboard.
+- [NudgeLink Engagers API](https://apis.io/apis/nudgelink-co/nudgelink-co-engagers-api/) — The engagers API from NudgeLink — 4 operation(s) for engagers.
+- [NudgeLink Events API](https://apis.io/apis/nudgelink-co/nudgelink-co-events-api/) — The events API from NudgeLink — 5 operation(s) for events.
+- [NudgeLink Exclusions API](https://apis.io/apis/nudgelink-co/nudgelink-co-exclusions-api/) — The exclusions API from NudgeLink — 4 operation(s) for exclusions.
+- [NudgeLink Health API](https://apis.io/apis/nudgelink-co/nudgelink-co-health-api/) — The health API from NudgeLink — 3 operation(s) for health.
+- [NudgeLink Inbox API](https://apis.io/apis/nudgelink-co/nudgelink-co-inbox-api/) — The inbox API from NudgeLink — 5 operation(s) for inbox.
+- [NudgeLink Integrations API](https://apis.io/apis/nudgelink-co/nudgelink-co-integrations-api/) — The integrations API from NudgeLink — 7 operation(s) for integrations.
+- [NudgeLink Leads API](https://apis.io/apis/nudgelink-co/nudgelink-co-leads-api/) — The leads API from NudgeLink — 16 operation(s) for leads.
+- [NudgeLink Mailboxes API](https://apis.io/apis/nudgelink-co/nudgelink-co-mailboxes-api/) — The mailboxes API from NudgeLink — 3 operation(s) for mailboxes.
+- [NudgeLink Map API](https://apis.io/apis/nudgelink-co/nudgelink-co-map-api/) — The map API from NudgeLink — 3 operation(s) for map.
+- [NudgeLink MCP API](https://apis.io/apis/nudgelink-co/nudgelink-co-mcp-api/) — The mcp API from NudgeLink — 6 operation(s) for mcp.
+- [NudgeLink Me API](https://apis.io/apis/nudgelink-co/nudgelink-co-me-api/) — The me API from NudgeLink — 4 operation(s) for me.
+- [NudgeLink Messages API](https://apis.io/apis/nudgelink-co/nudgelink-co-messages-api/) — The messages API from NudgeLink — 6 operation(s) for messages.
+- [NudgeLink Onboarding API](https://apis.io/apis/nudgelink-co/nudgelink-co-onboarding-api/) — The onboarding API from NudgeLink — 12 operation(s) for onboarding.
+- [NudgeLink Safety API](https://apis.io/apis/nudgelink-co/nudgelink-co-safety-api/) — The safety API from NudgeLink — 1 operation(s) for safety.
+- [NudgeLink Scout API](https://apis.io/apis/nudgelink-co/nudgelink-co-scout-api/) — The scout API from NudgeLink — 11 operation(s) for scout.
+- [NudgeLink Sequences API](https://apis.io/apis/nudgelink-co/nudgelink-co-sequences-api/) — The sequences API from NudgeLink — 8 operation(s) for sequences.
+- [NudgeLink Unsubscribe API](https://apis.io/apis/nudgelink-co/nudgelink-co-unsubscribe-api/) — The unsubscribe API from NudgeLink — 1 operation(s) for unsubscribe.
+- [NudgeLink Webhooks API](https://apis.io/apis/nudgelink-co/nudgelink-co-webhooks-api/) — The webhooks API from NudgeLink — 8 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Nudgelink Co Webhooks](https://apis.io/asyncapis/nudgelink-co/nudgelink-co-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [NudgeLink Agentic Access](https://apis.io/agentic-access/nudgelink-co/nudgelink-co-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AdminClientDetail](https://apis.io/schemas/nudgelink-co/nudgelink-co-admin-client-detail/)
+- [AdminOverview](https://apis.io/schemas/nudgelink-co/nudgelink-co-admin-overview/)
+- [BillingSummary](https://apis.io/schemas/nudgelink-co/nudgelink-co-billing-summary/)
+- [MessageOut](https://apis.io/schemas/nudgelink-co/nudgelink-co-message-out/)
+- [RunOut](https://apis.io/schemas/nudgelink-co/nudgelink-co-run-out/)
+- [SuggestionOut](https://apis.io/schemas/nudgelink-co/nudgelink-co-suggestion-out/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nudgelink Co Context](https://apis.io/jsonld/nudgelink-co/nudgelink-co-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NudgeLink API Rules](https://apis.io/rules/nudgelink-co/nudgelink-co-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [NudgeLink Authentication](https://apis.io/security/nudgelink-co/nudgelink-co-authentication/)
+- [NudgeLink Domain Security](https://apis.io/security/nudgelink-co/nudgelink-co-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [NudgeLink Plans Pricing](https://apis.io/plans/nudgelink-co/nudgelink-co-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nudgelink.co/)
+- [Documentation](https://nudgelink.co/docs)
+- [Getting started](https://nudgelink.co/docs/create-your-account)
+- [Pricing](https://nudgelink.co/pricing)
+- [Blog](https://nudgelink.co/blog)
+- [Terms of service](https://nudgelink.co/legal/terms)
+- [Privacy policy](https://nudgelink.co/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 53.2** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 62.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.1 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 59.1 |
+
+**Agent readiness 55.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nudgelink-co/](https://apis.io/providers/nudgelink-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NudgeLink: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nudgelink-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
